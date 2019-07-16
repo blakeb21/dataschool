@@ -14,7 +14,7 @@ image: /assets/images/sql-optimization/bigquery/bigQuery.png
 is_featured: false
 img_border_on_default: false
 is_under_construction: false
-reading_time: 5
+reading_time: 
 published: true
 
 ---
